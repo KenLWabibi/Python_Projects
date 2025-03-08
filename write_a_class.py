@@ -1,7 +1,7 @@
 # Ken Wabibi 27Feb25 Ch10_lab10-1
 
 '''
-                            Programming Lab 10-1  Patient Charges
+                                          Patient Charges
 The purpose of the program write a class named Patient that has attributes for the following data:
 
 First name, middle name, and last name
