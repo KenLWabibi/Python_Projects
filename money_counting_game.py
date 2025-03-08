@@ -1,4 +1,4 @@
-# Ken Wabibi 27AUG24 Ch03_lab3-2
+# Ken Wabibi 27AUG24 
 
 '''
                     Money Counting Game
