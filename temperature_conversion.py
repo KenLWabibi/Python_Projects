@@ -1,4 +1,4 @@
-# Ken Wabibi 04SEP24 Ch04_lab4-2
+# Ken Wabibi 04SEP24 
 
 '''
                     Temperature Conversion
