@@ -1,7 +1,7 @@
 # Ken Wabibi 30jan25 Ch08_lab8-1
 
 '''
-                            Programming Lab 8-1  Pig Latin
+                            Pig Latin Conversion
 The purpose of the program is accept an input sentence
 and convert each word to a verson of "pig latin" by 
 preforming the following task:
