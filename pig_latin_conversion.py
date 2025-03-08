@@ -1,4 +1,4 @@
-# Ken Wabibi 30jan25 Ch08_lab8-1
+# Ken Wabibi 30jan25 
 
 '''
                             Pig Latin Conversion
